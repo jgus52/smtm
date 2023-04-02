@@ -3,6 +3,7 @@
 [![license](https://img.shields.io/github/license/msaltnet/smtm.svg?style=flat-square)](https://github.com/msaltnet/smtm/blob/master/LICENSE)
 ![language](https://img.shields.io/github/languages/top/msaltnet/smtm.svg?style=flat-square&colorB=green)
 [![codecov](https://codecov.io/gh/msaltnet/smtm/branch/master/graph/badge.svg?token=USXTX7MG70)](https://codecov.io/gh/msaltnet/smtm)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjgus52%2Fsmtm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjgus52%2Fsmtm?ref=badge_shield)
 
 > It's a game to get money. 
 
@@ -197,3 +198,7 @@ nohup python -m smtm --mode 3 --demo 1 > nohup.out 2> nohup.err < /dev/null &
 ## 관련 도서
 
 [![smtm-book](https://user-images.githubusercontent.com/9311990/157685437-dcedd2c0-9f0c-400c-a3d4-017354279b60.png)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788997924967)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjgus52%2Fsmtm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjgus52%2Fsmtm?ref=badge_large)
